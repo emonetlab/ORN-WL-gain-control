@@ -1,0 +1,9 @@
+*.sh
+*.pyc
+scripts/scratch.py
+src/local_methods.py
+*.txt
+*.m
+*.ipynb
+/.ipynb_checkpoints
+scratch.py

@@ -1,0 +1,13 @@
+name: CS-variability-adaptation
+channels:
+  - defaults
+dependencies:
+  - matplotlib=2.0.2=py35h9bd10b2_1
+  - numpy=1.14.5=py35h9fa60d3_0
+  - numpy-base=1.14.5=py35h5c71026_0
+  - python=3.5.5=h0c2934d_2
+  - scipy=1.1.0=py35h672f292_0
+  - tensorboard=1.8.0=py35he025d50_0
+  - tensorflow=1.8.0=0
+  - tensorflow-base=1.8.0=py35h1a1b453_0
+
