@@ -1,4 +1,4 @@
-# CS-variability-adaptation
+# ORN-WL-gain-control
 
 This code allows exploration of coding and decoding fidelity of *Drosophila* olfactory ORNs, using a biophysical model of ORN sensing and either compressed sensing decoding or classification tasks for decoding. 
 
