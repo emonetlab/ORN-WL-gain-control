@@ -9,7 +9,7 @@ This code allows exploration of coding and decoding fidelity of *Drosophila* olf
 The code runs in Python 3 with just a few c scientific and plotting packages. Classification tasks require TensorFlow. The code has been run on and tested with Anaconda, and it is recommended to create an environment, using the package list via the CS-variability-adaptation.yml:​	
 
 ```
-$ conda env create -f CS-variability-adaptation.yml
+$ conda env create -f ORN-WL-gain-control.yml
 ```
 
 Tensor flow installed with the yml file may not be optimized for your machine specifications, so for better performance, you may re-install it separately following their documentation.
